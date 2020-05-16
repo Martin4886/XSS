@@ -1,0 +1,7 @@
+
+
+<script>
+  documentgetElementsByTagName("p")[0].innerHTML = "Important news: Football to start in June!";
+  documentgetElementsByTagName("p")[0].style.color = "blue";
+  document
+ </script>
